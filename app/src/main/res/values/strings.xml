@@ -1,0 +1,31 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Celebrity Middle Name Quiz</string>
+    <string name="banner">banner</string>
+    <string name="jennifer">Jennifer</string>
+    <string name="jennifer_aniston">Jennifer ______ Aniston</string>
+    <string name="a1">Joanna</string>
+    <string name="b1">Christie</string>
+    <string name="c1">Donna</string>
+    <string name="george_clooney">George _______ Clooney</string>
+    <string name="a2">Douglas</string>
+    <string name="b2">Timothy</string>
+    <string name="c2">William</string>
+    <string name="courteney_cox">Courteney ____ Cox</string>
+    <string name="a3">Patrice</string>
+    <string name="b3">Bass</string>
+    <string name="c3">Clarice</string>
+    <string name="tom_selleck">Tom _______ Selleck</string>
+    <string name="a4">William</string>
+    <string name="b4">Jonathan</string>
+    <string name="c4">Terrell</string>
+    <string name="will_smith_jr">Will _______ Smith Jr.</string>
+    <string name="submit">Submit</string>
+    <string name="c5">Carroll</string>
+    <string name="b5">Joseph</string>
+    <string name="a5">Terrance</string>
+    <string name="share">Share</string>
+    <string name="share_your_score">Share your score with your Friends!</string>
+    <string name="end_message">Thanks for taking the quiz! You got <xliff:g example="amy" id="score">%s</xliff:g> right answers and you got <xliff:g example="amy" id="wrong">%s</xliff:g> wrong answers.</string>
+    <string name="share_message">I got <xliff:g example="amy" id="sharescore">%s</xliff:g> right answers and <xliff:g example="amy" id="sharewrong">%s</xliff:g> wrong answers on the Celebrity Middle Name Quiz!</string>
+    <string name="enter_here">Enter Will\'s middle name here</string>
+</resources>
